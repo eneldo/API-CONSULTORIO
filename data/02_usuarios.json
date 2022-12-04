@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "6387e52b2a3fd186f32f963d"
+  },
+  "idRol": {
+    "$oid": "6372dac126ddb2148109bb8e"
+  },
+  "nombresUsuario": "ADMINISTRADOR",
+  "apellidosUsuario": "",
+  "celularUsuario": 0,
+  "correoUsuario": "admin@live.com",
+  "direccionUsuario": "0",
+  "usuarioAcceso": "admin@live.com",
+  "claveAcceso": "$2b$10$cXjMTMG7DtZeU3Ko1fBTOO7OOQGxYrJC6BbnMFJE86fhiNMAU2Axq",
+  "estadoUsuario": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669850411984"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669850411984"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6387e6782a3fd186f32f966d"
+  },
+  "idRol": {
+    "$oid": "6372dac126ddb2148109bb8f"
+  },
+  "nombresUsuario": "JOSE ANDRES",
+  "apellidosUsuario": "LOPEZ QUEVEDO",
+  "celularUsuario": {
+    "$numberLong": "3145478544"
+  },
+  "correoUsuario": "jose@live.com",
+  "direccionUsuario": "calle 100",
+  "usuarioAcceso": "jose@live.com",
+  "claveAcceso": "$2b$10$6V2hVo/A/aw.f/OoNMK97eTHvRXMTaRdkPL4x0k2A7ewsViAcrBde",
+  "estadoUsuario": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669850744271"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669850744271"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6387e69b2a3fd186f32f9676"
+  },
+  "idRol": {
+    "$oid": "6372dac126ddb2148109bb8f"
+  },
+  "nombresUsuario": "ANA MARIA",
+  "apellidosUsuario": "ARIAS DIAZ",
+  "celularUsuario": {
+    "$numberLong": "31687545454"
+  },
+  "correoUsuario": "ana@live.com",
+  "direccionUsuario": "calle 2100",
+  "usuarioAcceso": "ana@live.com",
+  "claveAcceso": "$2b$10$xhiVEmEt.WkJ2uuGA./qmOpA0LTNm4d8OaSlH5rqRy8eGjzb663yS",
+  "estadoUsuario": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669850779903"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669850779903"
+    }
+  },
+  "__v": 0
+}]

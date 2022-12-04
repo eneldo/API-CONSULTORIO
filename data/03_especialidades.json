@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "6387e5bb2a3fd186f32f9647"
+  },
+  "nombreEspecialidad": "Pediatría",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669850555597"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669850555597"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6387e5c82a3fd186f32f964b"
+  },
+  "nombreEspecialidad": "Nefrología Pediátrica",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669850568909"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669850568909"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6387e5d52a3fd186f32f964f"
+  },
+  "nombreEspecialidad": "Urología oncológica",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669850581751"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669850581751"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6387e5df2a3fd186f32f9653"
+  },
+  "nombreEspecialidad": "Neurología",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669850591911"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669850591911"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6387e5ea2a3fd186f32f9657"
+  },
+  "nombreEspecialidad": "Medicinal General",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669850602587"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669850602587"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6387e5f42a3fd186f32f965b"
+  },
+  "nombreEspecialidad": "Hematología",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669850612230"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669850612230"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6387e6032a3fd186f32f965f"
+  },
+  "nombreEspecialidad": "Reumatología",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669850627950"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669850627950"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6387e6132a3fd186f32f9663"
+  },
+  "nombreEspecialidad": "Cirugía General",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669850643630"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669850643630"
+    }
+  },
+  "__v": 0
+}]

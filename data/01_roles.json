@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6372dac126ddb2148109bb8e"
+  },
+  "nombreRol": "ADMIN",
+  "estadoRol": 1
+},{
+  "_id": {
+    "$oid": "6372dac126ddb2148109bb8f"
+  },
+  "nombreRol": "MEDICOS",
+  "estadoRol": 1
+},{
+  "_id": {
+    "$oid": "6372dac126ddb2148109bb90"
+  },
+  "nombreRol": "PACIENTES",
+  "estadoRol": 1
+}]
